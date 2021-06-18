@@ -6,4 +6,8 @@ In the present work, we analyze strategies based on the predictors' variability 
 
 ## Análisis del comportamiento del tráfico de la red para la detección de Botnets utilizando Redes Neuronales Recurrentes
 
+Informe Preliminar para proyecto en LABSIN. 
+
+
+
 
