@@ -2,7 +2,7 @@
 
 ## Análisis del comportamiento del tráfico de la red para la detección de Botnets utilizando Redes Neuronales Recurrentes
 
-Informe Preliminar para proyecto en LABSIN. 
+Informe Preliminar para proyecto en LABSIN en el cual se presenta un análisis de la viabilidad de aplicar Redes Neuronales Recurrentes (RNN) para detectar el comportamiento del tráfico de red y, en particular, se compara el rendimiento al utilizar redes LSTM y GRU. Para esto, el tráfico de la red es modelado como una secuencia de estados que cambian con el tiempo. El enfoque se basa en el uso de datos históricos que previamente han sido etiquetados como Normal o Botnet y luego entrenar a la red para finalmente obtener un modelo de detección capaz de reconocer comportamientos de conexiones.
 
 ## Aplicación de Redes Neuronales Profundas para la Detección Automática de Nombres de Dominio Generados de Manera Algorítmica
 
