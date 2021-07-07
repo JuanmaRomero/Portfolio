@@ -6,7 +6,7 @@ Informe Preliminar para proyecto en LABSIN en el cual se presenta un análisis d
 
 ## Aplicación de Redes Neuronales Profundas para la Detección Automática de Nombres de Dominio Generados de Manera Algorítmica
 
-El presente proyecto se desarrolla en el marco de Facultad de Ingenier a dentro Laboratorio de sistemas inteligentes (LABSIN) de la Universidad Nacional de Cuyo. El proyecto propone analizar la aplicaci n de redes neuronales profundas para el aprendizaje de los patrones comunes a los un nombre de dominio generado de manera algor tmica (DGA), de tal manera que permita desarrollar herramientas de detecci n, no solo con una baja tasa de falsos positivos, sino tambi n con la capacidad de operar en tiempo real.
+El presente proyecto se desarrolla en el marco de Facultad de Ingeniería dentro Laboratorio de sistemas inteligentes (LABSIN) de la Universidad Nacional de Cuyo. El proyecto propone analizar la aplicación de redes neuronales profundas para el aprendizaje de los patrones comunes a los un nombre de dominio generado de manera algorítmica (DGA), de tal manera que permita desarrollar herramientas de detección, no solo con una baja tasa de falsos positivos, sino también con la capacidad de operar en tiempo real.
 
 https://www.wicc.tk/workshop/60737d7b75b61b0009b93de8/post/6073807d75b61b0009b93dec
 
