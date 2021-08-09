@@ -15,5 +15,6 @@ https://www.wicc.tk/workshop/60737d7b75b61b0009b93de8/post/6073807d75b61b0009b93
 In the present work, we analyze strategies based on the predictors' variability to split in training and testing sets. Such strategies aim at guaranteeing the inclusion of rare or unusual examples with a minimal loss of the population's representativeness and provide a more accurate estimation about the generalization error when the dataset is not representative.
 
 
+## Detección de Patrones de Comportamiento en la Red a través del Análisis de Secuencias
 
-
+En el presente trabajo se analizan las ventajas y limitaciones de tres arquitecturas de redes neuronales para detectar comportamientos maliciosos capaces de recordar patrones vistos mucho tiempo atrás.
