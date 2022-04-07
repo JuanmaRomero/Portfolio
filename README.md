@@ -1,6 +1,6 @@
 # Portfolio
 
-## Determine if a user of MercadoPago (MP) Argentina will make transactions again in the next 2 months
+## Determine if a user of MercadoPago (MP) Argentina will make transactions in the next 2 months
 
 Determine if a user of MercadoPago (MP) Argentina will make transactions again in the next 2 months using data like visits to the APP by user, demografic data, money in accounts, movements in MercadoLibre and transactional data that have been carried out in the last 6 months.
 
