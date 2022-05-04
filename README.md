@@ -1,5 +1,9 @@
 # Portfolio
 
+## LABSIN
+
+Projects in which I participated in LABSIN
+
 ## Determine if a user of MercadoPago (MP) Argentina will make transactions in the next 2 months
 
 Determine if a user of MercadoPago (MP) Argentina will make transactions again in the next 2 months using data like visits to the APP by user, demografic data, money in accounts, movements in MercadoLibre and transactional data that have been carried out in the last 6 months.
@@ -9,22 +13,3 @@ Determine if a user of MercadoPago (MP) Argentina will make transactions again i
 Kaggle Competition - Predict whether a customer will change telco provider. The training dataset contains 4250 samples. Each sample contains 19 features and 1 boolean variable "churn" which indicates the class of the sample.
 
 https://www.kaggle.com/competitions/customer-churn-prediction-2020/overview
-
-## Análisis del comportamiento del tráfico de la red para la detección de Botnets utilizando Redes Neuronales Recurrentes
-
-Informe Preliminar para proyecto en LABSIN en el cual se presenta un análisis de la viabilidad de aplicar Redes Neuronales Recurrentes (RNN) para detectar el comportamiento del tráfico de red y, en particular, se compara el rendimiento al utilizar redes LSTM y GRU. Para esto, el tráfico de la red es modelado como una secuencia de estados que cambian con el tiempo. El enfoque se basa en el uso de datos históricos que previamente han sido etiquetados como Normal o Botnet y luego entrenar a la red para finalmente obtener un modelo de detección capaz de reconocer comportamientos de conexiones.
-
-## Aplicación de Redes Neuronales Profundas para la Detección Automática de Nombres de Dominio Generados de Manera Algorítmica
-
-El presente proyecto se desarrolla en el marco de Facultad de Ingeniería dentro Laboratorio de sistemas inteligentes (LABSIN) de la Universidad Nacional de Cuyo. El proyecto propone analizar la aplicación de redes neuronales profundas para el aprendizaje de los patrones comunes a los un nombre de dominio generado de manera algorítmica (DGA), de tal manera que permita desarrollar herramientas de detección, no solo con una baja tasa de falsos positivos, sino también con la capacidad de operar en tiempo real.
-
-https://www.wicc.tk/workshop/60737d7b75b61b0009b93de8/post/6073807d75b61b0009b93dec
-
-## Beyond Random Split for Assessing Model Performance
-
-In the present work, we analyze strategies based on the predictors' variability to split in training and testing sets. Such strategies aim at guaranteeing the inclusion of rare or unusual examples with a minimal loss of the population's representativeness and provide a more accurate estimation about the generalization error when the dataset is not representative.
-
-
-## Detección de Patrones de Comportamiento en la Red a través del Análisis de Secuencias
-
-En el presente trabajo se analizan las ventajas y limitaciones de tres arquitecturas de redes neuronales para detectar comportamientos maliciosos capaces de recordar patrones vistos mucho tiempo atrás.
